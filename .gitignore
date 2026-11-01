@@ -1,0 +1,9 @@
+# 构建产物
+Build/
+
+# 个人开发环境配置
+.vscode/
+.claude/
+.lingma/
+CLAUDE.md
+AGENTS.md
